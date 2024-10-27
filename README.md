@@ -1,4 +1,4 @@
-<h2>Rizz Proxy - A modern web proxy</h2>
+<h2>chromebook Proxy - A modern web proxy</h2>
 
 <h3>Features:</h3>
 
